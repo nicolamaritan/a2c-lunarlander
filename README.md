@@ -1,2 +1,2 @@
-# a2c-lunarlander
-A2C implementation for the LunarLander environment.
+# A2C LunarLander
+A2C PyTorch implementation for the LunarLander environment.
